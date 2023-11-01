@@ -1595,3 +1595,26 @@ section {
 .ta{
   text-align: justify;
 }
+
+/* about us page design */
+
+.fs{
+  text-align: justify;
+}
+.mr{
+  margin-top: 5rem;
+}
+.spn{
+  color: red;
+}
+.mission{
+  color: #88c23f;
+  font-weight: 700;
+  font-size: 20px;
+}
+.mission-list{
+  margin-top: 1rem;
+}
+.mission-sub{
+  color: #bd5102;
+}
